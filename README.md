@@ -64,6 +64,7 @@ The second general point to be learned from the bitter lesson is that the actual
 
 
 The strong scaling hypothesis is that, once we find a scalable architecture like self-attention or convolutions, which like the brain can be applied fairly uniformly (eg. “The Brain as a Universal Learning Machine”⁠ or Hawkins), we can simply train ever larger NNs and ever more sophisticated behavior will emerge naturally as the easiest way to optimize for all the tasks & data. More powerful NNs are ‘just’ scaled-up weak NNs, in much the same way that human brains look much like scaled-up primate brains⁠.
+ 
  While I was highly skeptical of scaling hypothesis advocates when I first became interested in AI 2004-2010 (back when AI was stuck in the doldrums of hopelessly narrow tools and dates like 2028 seemed impossibly far away), which smacked of numerology and “if you build it they will come” logic (at the time, we certainly didn’t have general algorithms that you could just throw compute at), in 2020, I have to admit, I was wrong and they were right. We built the compute, and the algorithms did come, and the scaling hypothesis has only looked more and more plausible every year since 2010.
 
 > Gwern Branwen, (2022), [*The Scaling Hypothesis*](https://archive.is/F8fpB#scaling-hypothesis)
