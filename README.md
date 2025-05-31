@@ -1,6 +1,7 @@
 The Analytical Engine has no pretensions whatever to *originate* anything. It can do whatever we *know how to order it* to perform. It can *follow* analysis; but it has no power of *anticipating* any analytical relations or truths. Its province is to assist us in making available what we are already acquainted with.
 > Ada Lovelace (1843), [*Sketch of the Analytical Engine, Note G*](https://web.archive.org/web/20250530031527/https://www.fourmilab.ch/babbage/sketch.html#:~:text=A.%20A.%20L.-,Note%20G,-It%20is%20desirable)
 
+
 It was suggested tentatively that the question, "Can machines think?" should be replaced by "Are there imaginable digital computers which would do well in the imitation game?"
 [...]
 The original question, "Can machines think?" I believe to be too
@@ -14,6 +15,7 @@ which are proved facts and which are conjectures, no harm can result. Conjecture
 great importance since they suggest useful lines of research.
 > Alan Turing (1950), [*Computing Machinery and Intelligence*](https://web.archive.org/web/20250530002831/https://courses.cs.umbc.edu/471/papers/turing.pdf)
 
+
 The chess machine is an ideal one to start with, since: (1) the problem is sharply defined
 both in allowed operations (the moves) and in the ultimate goal (checkmate); (2) it is
 neither so simple as to be trivial nor too difficult for satisfactory solution; (3) chess is
@@ -23,11 +25,14 @@ concept of "thinking"; (4) the discrete structure of chess fits well into the di
 modern computers.
 > Claude Shannon (1949), [Programming a Computer for Playing Chess](https://web.archive.org/web/20250519075435/https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 
+
 We propose that a 2-month, 10-man study of artificial intelligence be carried out during the summer of 1956 at Dartmouth College in Hanover, New Hampshire. The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. An attempt will be made to find how to make machines use language, form abstractions and concepts, solve kinds of problems now reserved for humans, and improve themselves.
 > John McCarthy et al, [*Dartmouth Workshop Proposal*](https://web.archive.org/web/20250528124924/https://raysolomonoff.com/dartmouth/boxa/dart564props.pdf)
 
+
 Programming computers to learn from experience should eventually eliminate the need for much of this detailed programming effort.
 > Arthur Samuel (1959), [*Some Studies in Machine Learning Using the Game of Checkers*](https://web.archive.org/web/20250328090837/https://people.csail.mit.edu/brooks/idocs/Samuel.pdf)
+
 
  If we
  use, to achieve our purposes, a me-
@@ -43,15 +48,24 @@ Programming computers to learn from experience should eventually eliminate the n
  tion of it
 > Norbert Wiener (1960), [*Some Moral and Technical Consequences of Automation*](https://web.archive.org/web/20250000000000*/https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf)
 
+
 Let an ultraintelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultra-intelligent machine could design even better machines; there would then unquestionably be an "intelligence explosion," and the intelligence of man would be left far behind (see for example refs. [22], [34], [44]). Thus the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control. It is curious that this point is made so seldom outside of science fiction. It is sometimes worthwhile to take science fiction seriously.
 > I.J. Good (1965), [*Speculations Concerning the First Ultraintelligent Machine*](https://web.archive.org/web/20010527181244/http://www.aeiveos.com/~bradbury/Authors/Computing/Good-IJ/SCtFUM.html)
 
+
 Encoded in the large, highly evolved sensory and motor portions of the human brain is a billion years of experience about the nature of the world and how to survive in it. The deliberate process we call reasoning is, I believe, the thinnest veneer of human thought, effective only because it is supported by this much older and much more powerful, though usually unconscious, sensorimotor knowledge. We are all prodigious olympians in perceptual and motor areas, so good that we make the difficult look easy. Abstract thought, though, is a new trick, perhaps less than 100 thousand years old. We have not yet mastered it. It is not all that intrinsically difficult; it just seems so when we do it.
 > Hans Moravec (1988), *Mind Children: The Future of Robot and Human Intelligence*  
+
+
+One thing that should be learned from the bitter lesson is the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning.
+
+The second general point to be learned from the bitter lesson is that the actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds, such as simple ways to think about space, objects, multiple agents, or symmetries. All these are part of the arbitrary, intrinsically-complex, outside world. They are not what should be built in, as their complexity is endless; instead we should build in only the meta-methods that can find and capture this arbitrary complexity. Essential to these methods is that they can find good approximations, but the search for them should be by our methods, not by us. We want AI agents that can discover like we can, not which contain what we have discovered. Building in our discoveries only makes it harder to see how the discovering process can be done.
+> Rich Sutton, (2019), [*The Bitter Lesson*](https://web.archive.org/web/20250501195604/http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
 
 What this manifests as is – trained on the same dataset for long enough, pretty much every model with enough weights and training time converges to the same point. Sufficiently large diffusion conv-unets produce the same images as ViT generators. AR sampling produces the same images as diffusion.
 
 This is a surprising observation! It implies that model behavior is not determined by architecture, hyperparameters, or optimizer choices. It’s determined by your dataset, nothing else. Everything else is a means to an end in efficiently delivery compute to approximating that dataset.
 
 Then, when you refer to “Lambda”, “ChatGPT”, “Bard”, or “Claude” then, it’s not the model weights that you are referring to. It’s the dataset.
-> James Betker (2023)[*The “it” in AI models is the dataset.*](https://web.archive.org/web/20250324194221/https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
+> James Betker (2023), [*The “it” in AI models is the dataset.*](https://web.archive.org/web/20250324194221/https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
