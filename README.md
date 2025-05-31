@@ -43,8 +43,7 @@ Programming computers to learn from experience should eventually eliminate the n
  is complete, then we had better be
  quite sure that the purpose put into the
  machine is the purpose which we really
- desire and not merely a colorful imita-
- tion of it
+ desire and not merely a colorful imitation of it
 > Norbert Wiener (1960), [*Some Moral and Technical Consequences of Automation*](https://web.archive.org/web/20250000000000*/https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf)
 
 
