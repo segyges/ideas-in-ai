@@ -63,6 +63,12 @@ The second general point to be learned from the bitter lesson is that the actual
 > Rich Sutton, (2019), [*The Bitter Lesson*](https://web.archive.org/web/20250501195604/http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 
+The strong scaling hypothesis is that, once we find a scalable architecture like self-attention or convolutions, which like the brain can be applied fairly uniformly (eg. “The Brain as a Universal Learning Machine”⁠LW or Hawkins), we can simply train ever larger NNs and ever more sophisticated behavior will emerge naturally as the easiest way to optimize for all the tasks & data. More powerful NNs are ‘just’ scaled-up weak NNs, in much the same way that human brains look much like scaled-up primate brains⁠.
+ While I was highly skeptical of scaling hypothesis advocates when I first became interested in AI 2004-2010 (back when AI was stuck in the doldrums of hopelessly narrow tools and dates like 2028 seemed impossibly far away), which smacked of numerology and “if you build it they will come” logic (at the time, we certainly didn’t have general algorithms that you could just throw compute at), in 2020, I have to admit, I was wrong and they were right. We built the compute, and the algorithms did come, and the scaling hypothesis has only looked more and more plausible every year since 2010.
+
+> Gwern Branwen, (2022), [*The Scaling Hypothesis*](https://archive.is/F8fpB#scaling-hypothesis)
+
+
 What this manifests as is – trained on the same dataset for long enough, pretty much every model with enough weights and training time converges to the same point. Sufficiently large diffusion conv-unets produce the same images as ViT generators. AR sampling produces the same images as diffusion.
 
 This is a surprising observation! It implies that model behavior is not determined by architecture, hyperparameters, or optimizer choices. It’s determined by your dataset, nothing else. Everything else is a means to an end in efficiently delivery compute to approximating that dataset.
