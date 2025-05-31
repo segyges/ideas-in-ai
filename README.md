@@ -53,6 +53,7 @@ Let an ultraintelligent machine be defined as a machine that can far surpass all
 
 Encoded in the large, highly evolved sensory and motor portions of the human brain is a billion years of experience about the nature of the world and how to survive in it. The deliberate process we call reasoning is, I believe, the thinnest veneer of human thought, effective only because it is supported by this much older and much more powerful, though usually unconscious, sensorimotor knowledge. We are all prodigious olympians in perceptual and motor areas, so good that we make the difficult look easy. Abstract thought, though, is a new trick, perhaps less than 100 thousand years old. We have not yet mastered it. It is not all that intrinsically difficult; it just seems so when we do it.
 > Hans Moravec (1988), *Mind Children: The Future of Robot and Human Intelligence*
+> 
 > Commonly known as "Moravec's Paradox"
 
 
