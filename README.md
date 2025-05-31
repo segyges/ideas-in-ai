@@ -52,7 +52,8 @@ Let an ultraintelligent machine be defined as a machine that can far surpass all
 
 
 Encoded in the large, highly evolved sensory and motor portions of the human brain is a billion years of experience about the nature of the world and how to survive in it. The deliberate process we call reasoning is, I believe, the thinnest veneer of human thought, effective only because it is supported by this much older and much more powerful, though usually unconscious, sensorimotor knowledge. We are all prodigious olympians in perceptual and motor areas, so good that we make the difficult look easy. Abstract thought, though, is a new trick, perhaps less than 100 thousand years old. We have not yet mastered it. It is not all that intrinsically difficult; it just seems so when we do it.
-> Hans Moravec (1988), *Mind Children: The Future of Robot and Human Intelligence*  (Commonly, this is called Moravec's Paradox)
+> Hans Moravec (1988), *Mind Children: The Future of Robot and Human Intelligence*
+> Commonly known as "Moravec's Paradox"
 
 
 This compression contest is motivated by the fact that being able to compress well is closely related to acting intelligently. In order to compress data, one has to find regularities in them, which is intrinsically difficult (many researchers live from analyzing data and finding compact models). So compressors beating the current "dumb" compressors need to be smart(er). Since the prize wants to stimulate developing "universally" smart compressors, we need a "universal" corpus of data. Arguably the online lexicon Wikipedia is a good snapshot of the Human World Knowledge. So the ultimate compressor of it should "understand" all human knowledge, i.e. be really smart. enwik8 is a hopefully representative 100MB extract from Wikipedia.
