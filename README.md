@@ -79,3 +79,27 @@ This is a surprising observation! It implies that model behavior is not determin
 
 Then, when you refer to “Lambda”, “ChatGPT”, “Bard”, or “Claude” then, it’s not the model weights that you are referring to. It’s the dataset.
 > James Betker (2023), [*The “it” in AI models is the dataset.*](https://web.archive.org/web/20250324194221/https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
+
+
+# Cleaned Transcript: Next Token Prediction and Human Performance
+
+**Ilya:** I challenge the claim that next token prediction cannot surpass human performance. It looks like on the surface it cannot—it looks on the surface if you just learn to imitate, to predict what people do, it means that you can only copy people. But here is a counter-argument for why that might not be quite so:
+
+If your neural net is smart enough, you just ask it like, "What would a person with great insight and wisdom and capability do?" Maybe such a person doesn't exist, but there's a pretty good chance that the neural net will be able to extrapolate how such a person should behave. 
+
+Do you see what I mean?
+
+**Dwarkesh:** Yes, although where would we get the sort of insight about what that person would do, if not from the data of regular people?
+
+**Ilya:** Because if you think about it, what does it mean to predict the next token well enough? What does it mean actually? It's actually a much deeper question than it seems. 
+
+Predicting the next token well means that you understand the underlying reality that led to the creation of that token. It's not statistics—like, it is statistics, but what is statistics? 
+
+In order to understand those statistics, to compress them, you need to understand what is it about the world that creates those statistics. And so then you say, "Okay, well I have all those people. What is it about people that creates their behaviors?" 
+
+Well, they have thoughts and they have feelings and they have ideas, and they do things in certain ways. All of those could be deduced from next token prediction. 
+
+And I'd argue that this should make it possible—not indefinitely, but to a pretty decent degree—to say, "Well, can you guess what you would do if you took a person with this characteristic and that characteristic?" 
+
+Like, such a person doesn't exist, but because you're so good at predicting the next token, you should still be able to guess what that person would do—this hypothetical, imaginary person with far greater mental ability than the rest of us.
+> Ilya Sustekever (2023), [The Dwarkesh Podcast - Why next-token prediction is enough for AGI](https://www.youtube.com/watch?v=YEUclZdj_Sc)
