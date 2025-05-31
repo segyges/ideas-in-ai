@@ -60,8 +60,25 @@ I.J. Good (1965), [*Speculations Concerning the First Ultraintelligent Machine*]
 
 > Encoded in the large, highly evolved sensory and motor portions of the human brain is a billion years of experience about the nature of the world and how to survive in it. The deliberate process we call reasoning is, I believe, the thinnest veneer of human thought, effective only because it is supported by this much older and much more powerful, though usually unconscious, sensorimotor knowledge. We are all prodigious olympians in perceptual and motor areas, so good that we make the difficult look easy. Abstract thought, though, is a new trick, perhaps less than 100 thousand years old. We have not yet mastered it. It is not all that intrinsically difficult; it just seems so when we do it.
 
-Hans Moravec (1988), *Mind Children: The Future of Robot and Human Intelligence*<br>
+Hans Moravec (1988), *Mind Children: The Future of Robot and Human Intelligence*\
 Commonly known as "Moravec's Paradox"
+
+> I think it's fair to call this event a singularity ("the  
+> Singularity" for the purposes of this paper). It is a point where our  
+> models must be discarded and a new reality rules. As we move closer  
+> and closer to this point, it will loom vaster and vaster over human  
+> affairs till the notion becomes a commonplace. Yet when it finally  
+> happens it may still be a great surprise and a greater unknown. In  
+> the 1950s there were very few who saw it: Stan Ulam [27] paraphrased  
+> John von Neumann as saying:  
+>  
+> > One conversation centered on the ever accelerating progress of  
+> > technology and changes in the mode of human life, which gives the  
+> > appearance of approaching some essential singularity in the  
+> > history of the race beyond which human affairs, as we know them,  
+> > could not continue.
+
+Vernor Vinge (1994), [*The Coming Singularity*](https://web.archive.org/web/20250102233755/https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 
 
 > This compression contest is motivated by the fact that being able to compress well is closely related to acting intelligently. In order to compress data, one has to find regularities in them, which is intrinsically difficult (many researchers live from analyzing data and finding compact models). So compressors beating the current "dumb" compressors need to be smart(er). Since the prize wants to stimulate developing "universally" smart compressors, we need a "universal" corpus of data. Arguably the online lexicon Wikipedia is a good snapshot of the Human World Knowledge. So the ultimate compressor of it should "understand" all human knowledge, i.e. be really smart. enwik8 is a hopefully representative 100MB extract from Wikipedia.
