@@ -35,8 +35,7 @@ Programming computers to learn from experience should eventually eliminate the n
 
 
  If we
- use, to achieve our purposes, a me
- chanical agency with whose operation
+ use, to achieve our purposes, a mechanical agency with whose operation
  we cannot efficiently interfere once we
  have started it, because the action is so
  fast and irrevocable that we have not
