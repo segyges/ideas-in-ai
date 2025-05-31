@@ -81,7 +81,6 @@ Then, when you refer to “Lambda”, “ChatGPT”, “Bard”, or “Claude”
 > James Betker (2023), [*The “it” in AI models is the dataset.*](https://web.archive.org/web/20250324194221/https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
 
 
-# Cleaned Transcript: Next Token Prediction and Human Performance
 
 **Ilya:** I challenge the claim that next token prediction cannot surpass human performance. It looks like on the surface it cannot—it looks on the surface if you just learn to imitate, to predict what people do, it means that you can only copy people. But here is a counter-argument for why that might not be quite so:
 
