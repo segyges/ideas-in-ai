@@ -1,5 +1,3 @@
-# Ideas in AI
-
 The Analytical Engine has no pretensions whatever to *originate* anything. It can do whatever we *know how to order it* to perform. It can *follow* analysis; but it has no power of *anticipating* any analytical relations or truths. Its province is to assist us in making available what we are already acquainted with.
 > Ada Lovelace (1843), [*Sketch of the Analytical Engine, Note G*](https://web.archive.org/web/20250530031527/https://www.fourmilab.ch/babbage/sketch.html#:~:text=A.%20A.%20L.-,Note%20G,-It%20is%20desirable)
 
