@@ -113,6 +113,10 @@ Rich Sutton, (2019), [*The Bitter Lesson*](https://web.archive.org/web/202505011
 
 Gwern Branwen, (2022), [*The Scaling Hypothesis*](https://archive.is/F8fpB#scaling-hypothesis)
 
+> Here we will explore emergence with respect to model scale, as measured by training compute and number of model parameters. Specifically, we define emergent abilities of large language models as abilities that are not present in smaller-scale models but are present in large-scale models; thus they cannot be predicted by simply extrapolating the performance improvements on smaller-scale models (§2).
+
+Wei et al, (2022), [Emergent Abilities of Large Language Models](https://web.archive.org/web/20250525220208/https://arxiv.org/abs/2206.07682)
+
 
 > What this manifests as is – trained on the same dataset for long enough, pretty much every model with enough weights and training time converges to the same point. Sufficiently large diffusion conv-unets produce the same images as ViT generators. AR sampling produces the same images as diffusion.
 
