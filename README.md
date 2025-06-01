@@ -86,6 +86,20 @@ Vernor Vinge (1994), [*The Coming Singularity*](https://web.archive.org/web/2025
 Marcus Hutter (2006), [*The Hutter Prize*](https://web.archive.org/web/20060821073034/http://prize.hutter1.net/)
 
 
+> The Orthogonality Thesis\
+> Intelligence and final goals are orthogonal axes along which possible agents can freely\
+> vary. In other words, more or less any level of intelligence could in principle be\
+> combined with more or less any final goal.
+
+> The Instrumental Convergence Thesis\
+> Several instrumental values can be identified which are convergent in the sense that their\
+> attainment would increase the chances of the agent’s goal being realized for a wide range\
+> of final goals and a wide range of situations, implying that these instrumental values are\
+> likely to be pursued by many intelligent agents.
+
+Nick Bostrom, (2012), [The Superintelligent Will](https://web.archive.org/web/20250505064933/https://nickbostrom.com/superintelligentwill.pdf)
+Both commonly referred to by name, with or without the term 'thesis'.
+
 > One thing that should be learned from the bitter lesson is the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning.
 
 > The second general point to be learned from the bitter lesson is that the actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds, such as simple ways to think about space, objects, multiple agents, or symmetries. All these are part of the arbitrary, intrinsically-complex, outside world. They are not what should be built in, as their complexity is endless; instead we should build in only the meta-methods that can find and capture this arbitrary complexity. Essential to these methods is that they can find good approximations, but the search for them should be by our methods, not by us. We want AI agents that can discover like we can, not which contain what we have discovered. Building in our discoveries only makes it harder to see how the discovering process can be done.
