@@ -102,7 +102,7 @@ Marcus Hutter (2006), [*The Hutter Prize*](https://web.archive.org/web/200608210
 > of final goals and a wide range of situations, implying that these instrumental values are\
 > likely to be pursued by many intelligent agents.
 
-Nick Bostrom, (2012), [The Superintelligent Will](https://web.archive.org/web/20250505064933/https://nickbostrom.com/superintelligentwill.pdf)
+Nick Bostrom, (2012), [The Superintelligent Will](https://web.archive.org/web/20250505064933/https://nickbostrom.com/superintelligentwill.pdf)\
 Both commonly referred to by name, with or without the term 'thesis'.
 
 > One thing that should be learned from the bitter lesson is the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning.
