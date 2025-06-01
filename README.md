@@ -116,7 +116,7 @@ Rich Sutton, (2019), [*The Bitter Lesson*](https://web.archive.org/web/202505011
  
 > While I was highly skeptical of scaling hypothesis advocates when I first became interested in AI 2004-2010 (back when AI was stuck in the doldrums of hopelessly narrow tools and dates like 2028 seemed impossibly far away), which smacked of numerology and “if you build it they will come” logic (at the time, we certainly didn’t have general algorithms that you could just throw compute at), in 2020, I have to admit, I was wrong and they were right. We built the compute, and the algorithms did come, and the scaling hypothesis has only looked more and more plausible every year since 2010.
 
-Gwern Branwen, (2022), [*The Scaling Hypothesis*](https://archive.is/F8fpB#scaling-hypothesis)
+Gwern Branwen, (2020), [*The Scaling Hypothesis*](https://archive.is/F8fpB#scaling-hypothesis)
 
 > Here we will explore emergence with respect to model scale, as measured by training compute and number of model parameters. Specifically, we define emergent abilities of large language models as abilities that are not present in smaller-scale models but are present in large-scale models; thus they cannot be predicted by simply extrapolating the performance improvements on smaller-scale models (§2).
 
