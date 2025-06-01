@@ -58,6 +58,11 @@ Norbert Wiener (1960), [*Some Moral and Technical Consequences of Automation*](h
 I.J. Good (1965), [*Speculations Concerning the First Ultraintelligent Machine*](https://web.archive.org/web/20010527181244/http://www.aeiveos.com/~bradbury/Authors/Computing/Good-IJ/SCtFUM.html)
 
 
+> Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
+
+Charles Goodhart, (1975), [Problems of monetary management: the U.K. experience](https://web.archive.org/web/20250415212440/https://www.researchgate.net/publication/253797490_Goodhart's_Law_Its_Origins_Meaning_and_Implications_for_Monetary_Policy)
+"Goodhart's Law"
+
 > Encoded in the large, highly evolved sensory and motor portions of the human brain is a billion years of experience about the nature of the world and how to survive in it. The deliberate process we call reasoning is, I believe, the thinnest veneer of human thought, effective only because it is supported by this much older and much more powerful, though usually unconscious, sensorimotor knowledge. We are all prodigious olympians in perceptual and motor areas, so good that we make the difficult look easy. Abstract thought, though, is a new trick, perhaps less than 100 thousand years old. We have not yet mastered it. It is not all that intrinsically difficult; it just seems so when we do it.
 
 Hans Moravec (1988), *Mind Children: The Future of Robot and Human Intelligence*\
