@@ -39,16 +39,7 @@ John McCarthy et al, (1955) [*Dartmouth Workshop Proposal*](https://web.archive.
 Arthur Samuel (1959), [*Some Studies in Machine Learning Using the Game of Checkers*](https://web.archive.org/web/20250328090837/https://people.csail.mit.edu/brooks/idocs/Samuel.pdf)
 
 
- > If we
- > use, to achieve our purposes, a mechanical agency with whose operation
- > we cannot efficiently interfere once we
- > have started it, because the action is so
- > fast and irrevocable that we have not
- > the data to intervene before the action
- > is complete, then we had better be
- > quite sure that the purpose put into the
- > machine is the purpose which we really
- > desire and not merely a colorful imitation of it
+ > If we use, to achieve our purposes, a mechanical agency with whose operation we cannot efficiently interfere once we have started it, because the action is so fast and irrevocable that we have not the data to intervene before the action is complete, then we had better be quite sure that the purpose put into the machine is the purpose which we really desire and not merely a colorful imitation of it
 
 Norbert Wiener (1960), [*Some Moral and Technical Consequences of Automation*](https://web.archive.org/web/20250000000000*/https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf)
 
