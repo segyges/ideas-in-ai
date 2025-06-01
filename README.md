@@ -3,8 +3,8 @@
 Ada Lovelace (1843), [*Sketch of the Analytical Engine, Note G*](https://web.archive.org/web/20250530031527/https://www.fourmilab.ch/babbage/sketch.html#:~:text=A.%20A.%20L.-,Note%20G,-It%20is%20desirable)
 
 
-> It was suggested tentatively that the question, "Can machines think?" should be replaced by "Are there imaginable digital computers which would do well in the imitation game?"
-> [...]
+> It was suggested tentatively that the question, "Can machines think?" should be replaced by "Are there imaginable digital computers which would do well in the imitation game?"\
+> [...]\
 > The original question, "Can machines think?" I believe to be too
 > meaningless to deserve discussion. Nevertheless I believe that at the end of the century
 > the use of words and general educated opinion will have altered so much that one will be
