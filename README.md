@@ -1,5 +1,5 @@
 # Ideas in AI
-This is in chronological order and presents the clearest, earliest, or most-cited statement of a specific idea in AI. Where those three things conflict I have chosen whichever quote I liked the most. They are mostly or all big-picture concerns, and should hopefully be at least interesting even if not correct in a timeless way.
+This is in chronological order and presents the clearest, earliest, or most-cited statement of a specific idea in AI. Where those three things conflict I have chosen whichever quote I liked the most. They are mostly or all big-picture concerns, and should hopefully be at least interesting in a timeless way.
 
 > The Analytical Engine has no pretensions whatever to *originate* anything. It can do whatever we *know how to order it* to perform. It can *follow* analysis; but it has no power of *anticipating* any analytical relations or truths. Its province is to assist us in making available what we are already acquainted with.
 
