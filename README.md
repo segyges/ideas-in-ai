@@ -3,7 +3,7 @@ This is in chronological order and presents the clearest, earliest, or most-cite
 
 > The Analytical Engine has no pretensions whatever to *originate* anything. It can do whatever we *know how to order it* to perform. It can *follow* analysis; but it has no power of *anticipating* any analytical relations or truths. Its province is to assist us in making available what we are already acquainted with.
 
-Ada Lovelace (1843), [*Sketch of the Analytical Engine, Note G*](https://web.archive.org/web/20250530031527/https://www.fourmilab.ch/babbage/sketch.html#:~:text=A.%20A.%20L.-,Note%20G,-It%20is%20desirable)
+Ada Lovelace (1843), [*Note G. In *Sketch of the Analytical Engine Invented by Charles Babbage* by L. F. Menabrea, with notes upon the memoir by the translator. *Taylor's Scientific Memoirs*, 3, 666-731.*](https://web.archive.org/web/20250530031527/https://www.fourmilab.ch/babbage/sketch.html#:~:text=A.%20A.%20L.-,Note%20G,-It%20is%20desirable)
 
 
 > It was suggested tentatively that the question, "Can machines think?" should be replaced by "Are there imaginable digital computers which would do well in the imitation game?"\
