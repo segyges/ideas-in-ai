@@ -5,6 +5,28 @@ This is in chronological order and presents the clearest, earliest, or most-cite
 
 Ada Lovelace (1843), [*Note G. In *Sketch of the Analytical Engine Invented by Charles Babbage* by L. F. Menabrea, with notes upon the memoir by the translator. *Taylor's Scientific Memoirs*, 3, 666-731.*](https://web.archive.org/web/20250530031527/https://www.fourmilab.ch/babbage/sketch.html#:~:text=A.%20A.%20L.-,Note%20G,-It%20is%20desirable)
 
+> All these are very crude steps in the direction of a systematic theory of automata. They represent, in
+> addition, only one particular direction. This is, as I indicated before, the direction towards forming a
+> rigorous concept of what constitutes "complication." They illustrate that "complication" on its lower
+> levels is probably degenerative, that is, that every automaton that can produce other automata will
+> only be able to produce less complicated ones. There is, however, a certain minimum level where
+> this degenerative characteristic ceases to be universal. At this point automata which can reproduce
+> themselves, or even construct higher entities, become possible. This fact, that complication, as well
+> as organization, below a certain minimum level is degenerative, and beyond that level can become
+> self-supporting and even increasing, will clearly play an important role in any future theory of the
+> subject.
+> 
+John Von Neumann (1948), [The General and Logical Theory of Automata](https://archive.is/Wt2tz)
+
+> The chess machine is an ideal one to start with, since: (1) the problem is sharply defined
+> both in allowed operations (the moves) and in the ultimate goal (checkmate); (2) it is
+> neither so simple as to be trivial nor too difficult for satisfactory solution; (3) chess is
+> generally considered to require "thinking" for skilful play; a solution of this problem will
+> force us either to admit the possibility of a mechanized thinking or to further restrict our
+> concept of "thinking"; (4) the discrete structure of chess fits well into the digital nature of
+> modern computers.
+
+Claude Shannon (1949), [Programming a Computer for Playing Chess](https://web.archive.org/web/20250519075435/https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 
 > It was suggested tentatively that the question, "Can machines think?" should be replaced by "Are there imaginable digital computers which would do well in the imitation game?"\
 > [...]\
@@ -19,18 +41,6 @@ Ada Lovelace (1843), [*Note G. In *Sketch of the Analytical Engine Invented by C
 > great importance since they suggest useful lines of research.
 
 Alan Turing (1950), [*Computing Machinery and Intelligence*](https://web.archive.org/web/20250530002831/https://courses.cs.umbc.edu/471/papers/turing.pdf)
-
-
-> The chess machine is an ideal one to start with, since: (1) the problem is sharply defined
-> both in allowed operations (the moves) and in the ultimate goal (checkmate); (2) it is
-> neither so simple as to be trivial nor too difficult for satisfactory solution; (3) chess is
-> generally considered to require "thinking" for skilful play; a solution of this problem will
-> force us either to admit the possibility of a mechanized thinking or to further restrict our
-> concept of "thinking"; (4) the discrete structure of chess fits well into the digital nature of
-> modern computers.
-
-Claude Shannon (1949), [Programming a Computer for Playing Chess](https://web.archive.org/web/20250519075435/https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
-
 
 > We propose that a 2-month, 10-man study of artificial intelligence be carried out during the summer of 1956 at Dartmouth College in Hanover, New Hampshire. The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. An attempt will be made to find how to make machines use language, form abstractions and concepts, solve kinds of problems now reserved for humans, and improve themselves.
 
